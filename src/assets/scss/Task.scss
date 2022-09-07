@@ -1,0 +1,11 @@
+.task {
+  flex: 1;
+  aspect-ratio: 1 / 1;
+  min-width: 40px;
+  background: pink;
+  cursor: pointer;
+}
+
+.task:hover {
+  scale: 1.2;
+}
